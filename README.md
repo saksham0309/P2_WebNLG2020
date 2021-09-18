@@ -1,15 +1,5 @@
 # P2_WebNLG2020
 
-<hr>
-
-## Model Introduction
-Our P2 model consists of two steps:
-- Planner by relational graph convolutional networks ([Zhao et al, 2020](https://www.aclweb.org/anthology/2020.acl-main.224/))
-- Pretrained Seq2Seq model: T5 ([Raffel et al., 2020](https://arxiv.org/abs/1910.10683))
-![](https://i.imgur.com/hJEQzPx.png)
-
-<hr>
-
 ## How to run
 
 Install the requirements using
